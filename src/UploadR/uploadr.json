@@ -75,8 +75,8 @@
     "Hostname": "localhost",
     "Port": 5432,
     "Database": "uploadr",
-    "Username": "uploadr",
-    "Password": "1234"
+    "Username": "postgres",
+    "Password": "autocom"
   },
   "Upload": {
     "SizeMax": 4294967296,
